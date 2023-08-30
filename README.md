@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center"> Hi 👋, I'm Alex </h1>
-    <h3 align="center"> My goal is to constantly learn and apply my technical skills to meet technological challenges. With a strong background in programming and a great enthusiasm for backend and mobile development. </h3>
+    <h3 align="center"> My goal is to constantly learn and expand my knowledge to meet technological challenges. With a strong programming background and a great enthusiasm for backend and mobile     development. </h3>
 </div>
 
 <div align="center">
