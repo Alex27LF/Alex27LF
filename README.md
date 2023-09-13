@@ -13,9 +13,10 @@
 <div align="center">
     <h1 align="center"> Hi 👋, I'm Alex </h1>
     <p align="center"> My goal is to constantly learn and expand my knowledge to meet technological challenges. With a strong programming background and a great enthusiasm for backend and mobile     development. </p>
-     <p align="center">
+    <!-- 
+    <p align="center">
         - 👨‍🎓 I’m currently learning  <img align="center" src="https://res.cloudinary.com/img-cloud-alex/image/upload/v1694457362/skills/ukbrdjvut4fnprtduptw.png" width="100" title="Spring Boot" alt="Spring Boot"/>
-        <!-- - 🔭 I’m currently working on ... <br>
+         - 🔭 I’m currently working on ... <br>
         - 👯 I’m looking to collaborate on ... <br>
         - 🤔 I’m looking for help with ... <br>
         - 💬 Ask me about ... <br>
